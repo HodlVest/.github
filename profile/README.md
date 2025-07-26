@@ -49,7 +49,7 @@ This unlocks autonomous, intelligent, and truly inclusive savings infrastructure
 ## ⚙️ Tech Stack
 
 - **Internet Computer Protocol (ICP)**
-- **Motoko / Rust canisters**
+- **ICP Python SDK**
 - **AI modules (Python-based or canister-integrated)**
 - **Frontend (React / Vue, integrated with Internet Identity)**
 
